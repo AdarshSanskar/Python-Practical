@@ -11,4 +11,3 @@ print(d)
 del d['cherry']
 print(d)
 print("Updated Dictionary : ", d)
-
